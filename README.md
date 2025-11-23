@@ -1,1 +1,2 @@
-"# Barotrauma-Rebalance" 
+# Barotrauma-Rebalance
+This mod is being made for the game called Barotrauma, with the goal of rebalancing the classes and the way damage works to make each role feel equally as powerful, and to make no one feel outshined or redundant because of someone else. 
